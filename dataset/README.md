@@ -1,1 +1,1 @@
-
+Dataset folder for plant disease images.
